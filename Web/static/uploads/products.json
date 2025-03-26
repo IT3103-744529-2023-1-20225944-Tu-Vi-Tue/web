@@ -1,0 +1,109 @@
+[
+    {
+        "id": "b001",
+        "name": "Bánh Kem chocolate",
+        "price": 150000.0,
+        "quantity": 30,
+        "category": "Bánh kem",
+        "image_path": "c:\\AI\\Web\\static\\uploads\\product_images\\b001.png",
+        "description": "Bánh kem phủ chocolate",
+        "subcategory": "banh-san-co",
+        "attributes": {
+            "style": "Sang trọng",
+            "suitable": "Người lớn"
+        }
+    },
+    {
+        "id": "u001",
+        "name": "Trà sữa trân trâu đen",
+        "price": 30000.0,
+        "quantity": 50,
+        "category": "Đồ uống",
+        "image_path": "c:\\AI\\Web\\static\\uploads\\product_images\\u001.png",
+        "description": "Trà sữa trân châu đen",
+        "subcategory": "tra-sua",
+        "attributes": {
+            "temperature": "Lạnh",
+            "sugar": "50%"
+        }
+    },
+    {
+        "id": "u002",
+        "name": "Sinh tố dâu",
+        "price": 15000.0,
+        "quantity": 30,
+        "category": "Đồ uống",
+        "image_path": "c:\\AI\\Web\\static\\uploads\\product_images\\u002.png",
+        "description": "sinh tố dâu đậm đặc",
+        "subcategory": "sinh-to",
+        "attributes": {
+            "temperature": "Lạnh",
+            "sugar": "100%"
+        }
+    },
+    {
+        "id": "u003",
+        "name": "cà phê ",
+        "price": 30000.0,
+        "quantity": 100,
+        "category": "Đồ uống",
+        "image_path": "c:\\AI\\Web\\static\\uploads\\product_images\\u003.png",
+        "description": "Cà phê",
+        "subcategory": "coffee",
+        "attributes": {
+            "temperature": "Lạnh",
+            "sugar": "30%"
+        }
+    },
+    {
+        "id": "a002",
+        "name": "Khoai tây chiên",
+        "price": 30000.0,
+        "quantity": 50,
+        "category": "Đồ ăn",
+        "image_path": "c:\\AI\\Web\\static\\uploads\\product_images\\a002.png",
+        "description": "Khoai Tây chiên",
+        "subcategory": "an-vat",
+        "attributes": {
+            "suitable": "Trẻ em",
+            "temperature": "Nóng"
+        }
+    },
+    {
+        "id": "a001",
+        "name": "Mì Xào",
+        "price": 40000.0,
+        "quantity": 30,
+        "category": "Đồ ăn",
+        "image_path": "c:\\AI\\Web\\static\\uploads\\product_images\\a001.png",
+        "description": "Mì xào hải sản",
+        "subcategory": "mi",
+        "attributes": {}
+    },
+    {
+        "id": "b002",
+        "name": "Bánh kem dâu",
+        "price": 120000.0,
+        "quantity": 20,
+        "category": "Bánh kem",
+        "image_path": "c:\\AI\\Web\\static\\uploads\\product_images\\b002.png",
+        "description": "Bánh kem dâu",
+        "subcategory": "",
+        "attributes": {
+            "style": "Ngọt ngào",
+            "suitable": "Nữ",
+            "temperature": "Lạnh"
+        }
+    },
+    {
+        "id": "a003",
+        "name": "Bánh trứng",
+        "price": 50000.0,
+        "quantity": 50,
+        "category": "Đồ ăn",
+        "image_path": "c:\\AI\\Web\\static\\uploads\\product_images\\a003.png",
+        "description": "Bánh trứng",
+        "subcategory": "an-vat",
+        "attributes": {}
+    }
+]

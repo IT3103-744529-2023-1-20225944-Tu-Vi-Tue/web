@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "name": "TvT",
+        "email": "TvT@email.com",
+        "password": "pbkdf2:sha256:600000$wmSEfZvLxpHiJUvN$be2d6d617eb528b1ef7addf8f7129fd740ec902676588e541f08d89962724ce9",
+        "avatar": "img/default-avatar.png",
+        "created_at": "2025-03-25T21:37:43.739541"
+    }
+]
